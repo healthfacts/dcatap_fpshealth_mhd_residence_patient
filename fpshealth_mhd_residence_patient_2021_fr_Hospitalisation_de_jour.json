@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "4551073d-5759-d275-5bd2-cf89008b85aa",
+    "title": "Origin of the patients in Belgian hospitals (2021) : Day hospitalization (version française)",
+    "description": "This data shows the number of hospital stays per patient's place of residence, per age group and per gender in traditional and day hospitalization.",
+    "publisher": "Federal Public Service Public Health, Food Chain Safety and Environment",
+    "downloadURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_residence_patient/blob/main/fpshealth_mhd_residence_patient_2021_fr_Hospitalisation_de_jour.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_fpshealth_mhd_residence_patient/blob/main/fpshealth_mhd_residence_patient_2021_fr_Hospitalisation_de_jour.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 574221,
+    "modificationDate": "2023-11-30 12:27:08",
+    "status": "completed",
+    "language": "fr",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.health.belgium.be/en/node/36322",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "fe75bde1-6311-44bb-b8b6-19f6c907effe",
+        "title": "Origin of the patients in Belgian hospitals",
+        "landingPage": "https://www.health.belgium.be/en/node/36322",
+        "contactPoint": "FPS Public Health, Food Chain Safety and Environment, Directorate General of Healthcare, Data and Policy Information Service, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "adhoc_admDM@health.fgov.be"
+    }
+}
